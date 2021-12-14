@@ -1,0 +1,31 @@
+.about-me-body {
+  width: 100%;
+  margin: 0;
+  background-color: #372037;
+  font-family: Mukta Mahee;
+  height: 300px;
+  z-index: 2;
+  color: #d7d7d7;
+}
+
+.about-me-body > h1 {
+  padding-top: 40px;
+  text-align: center;
+  font-size: 50px;
+  font-weight: bold;
+}
+
+.text {
+  width: 100%;
+  margin: 0 auto;
+  text-align: center;
+  padding-top: 30px;
+}
+
+/*.square {
+  height: 500px;
+  width: 200px;
+  background-color: #372037;
+  position: absolute;
+  top: 900px;
+}*/

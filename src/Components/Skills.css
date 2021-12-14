@@ -1,0 +1,24 @@
+.skills-body {
+  background-color: #d7d7d7;
+  color: #372037;
+  font-family: Mukta Mahee;
+  height: 500px;
+}
+
+#skills {
+  padding-top: 40px;
+  text-align: center;
+  font-size: 50px;
+  font-weight: bold;
+}
+
+#container {
+  display: flex;
+  justify-content: center;
+}
+
+.logo {
+  width: 100px;
+  height: auto;
+  margin: 50px 50px 0px 50px;
+}

@@ -1,0 +1,43 @@
+.intro-section {
+  width: 100%;
+  overflow-x: hidden;
+  background-color: #d7d7d7;
+  margin: 0;
+  height: 600px;
+  padding-left: 200px;
+  padding-top: 100px;
+}
+.intro-text {
+  margin: 0;
+  z-index: 2;
+}
+.intro-text > h1 {
+  font-size: 40px;
+  margin: 0;
+  padding-bottom: 20px;
+}
+
+.intro-text > h2 {
+  margin: 0;
+  font-size: 80px;
+  height: 120px;
+}
+
+.intro-text > h3 {
+  margin: 0;
+  font-size: 25px;
+  color: #909090;
+}
+
+.triangle-up {
+  width: 0;
+  height: 0;
+  border-left: 1100px solid transparent;
+  border-bottom: 1500px solid #372037;
+  position: absolute;
+  top: -800px;
+  left: 390px;
+}
+.contact {
+  margin-top: 50px;
+}

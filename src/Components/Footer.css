@@ -1,0 +1,31 @@
+.footer {
+  height: 220px;
+  width: 100%;
+  background-color: #646363;
+  margin: 0 auto;
+  padding: 50px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+.footer > p {
+  padding: 5px;
+}
+
+.icons {
+  display: flex;
+  margin: 0 auto;
+}
+
+i {
+  padding: 10px;
+  size: 3x;
+}
+
+.info {
+  display: flex;
+  margin: 0 auto;
+}
+.info > p {
+  padding: 5px;
+}
